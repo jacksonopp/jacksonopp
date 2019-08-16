@@ -7,6 +7,10 @@ body {
    color: #040f0f;
 }
 
+p {
+   font-size: 1.64rem;
+}
+
 .cover {
    object-fit: cover;
 }
@@ -56,4 +60,17 @@ body {
 
 .contact-item a {
       color: #55FFFF;
+}
+
+.page {
+   height: 1000px;
+}
+
+.contact-me {
+   background-color: white;
+   width: 100vw;
+}
+
+.contact-me article {
+   padding-top: 3rem;
 }
