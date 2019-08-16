@@ -15,3 +15,24 @@ body {
 .cover {
     object-fit: cover;
 }
+
+.sideNav {
+   position: fixed;
+   left: 310px;
+   width: 300px;
+}
+
+.content{
+   position: relative;
+   left: 300px;
+}
+
+.landing-page {
+   text-align: center;
+}
+
+
+.position-fix {
+   position: relative;
+   left: -10%;
+}
